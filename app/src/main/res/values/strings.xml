@@ -1,0 +1,5 @@
+<resources>
+    <string name="mvp_helper_error_message_no_internet">No internet!</string>
+    <string name="mvp_helper_error_message_server_connection">Problem with connection to server. Retry later.</string>
+    <string name="mvp_helper_error_message_http">Ooops, cannot obtain request, something went wrong.</string>
+</resources>
